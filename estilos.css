@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+#topo-logo {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#cards {
+    margin: 15x;
+    padding: 10px;
+}
+
+#poster {
+    margin-bottom: 15px;
+}
